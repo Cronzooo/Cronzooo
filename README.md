@@ -3,7 +3,7 @@
 Systems Engineer — 
 design, integration, and management of complex systems over their lifecycles//
 
-cloud engineering and cloud security.
+Experience with cloud engineering and cloud security.
 
 Hands-on work with Azure infrastructure, identity, and security operations.
 
